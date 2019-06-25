@@ -47,6 +47,7 @@ kuchlak	Chaman
 Basima	Khuzdar
 HasanAbdal	Abbottabad
 Abbottabad	Mansehra
+Mansehra	Chilas
 Chilas	Aliabad
 Aliabad	KhunjerabPass
 Quetta	Nushki
