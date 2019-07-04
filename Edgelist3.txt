@@ -1,0 +1,6 @@
+Quetta	Nushki
+Mastung	Quetta
+Quetta	kuchlak
+Basima	Surab
+Surab	Kalat
+Surab	Khuzdar	

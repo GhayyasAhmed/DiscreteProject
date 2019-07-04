@@ -1,0 +1,8 @@
+Jamshoro	Hyderabad
+Thatta	Jamshoro
+Jamshoro	Dadu
+Kotri	Jamshoro
+Rajanpur	DGKhan
+DGKhan	DIKhan
+FortMonro	DGKhan
+DGKhan	Muzaffargarh
