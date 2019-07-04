@@ -4,3 +4,6 @@ Quetta	kuchlak
 Basima	Surab
 Surab	Kalat
 Surab	Khuzdar	
+Hub	Winder
+Winder	Uthal
+Winder	Ormara
