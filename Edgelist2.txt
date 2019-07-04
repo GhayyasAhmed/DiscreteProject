@@ -1,0 +1,6 @@
+Pattoki	Lahore
+Lahore	Muridke
+Rawalpindi	Jhelum
+Jhelum	Gujrat
+Kamoke	Gujranwala
+Gujranwala	Wazirabad
