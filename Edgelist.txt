@@ -1,102 +1,104 @@
-Karachi	Thatta
-Thatta	Jamshoro
-Jamshoro	Hyderabad
-Hyderabad	Hala
-Hala	Moro
-Moro	Ranipur
-Ranipur	Khairpur
-Khairpur	Rohri
-Rohri	Ghotki
-Ghotki	Ubauro
-Ubauro	Bahawalpur
-Bahawalpur	Lodhran
-Lodhran	Multan
-Multan	Khanewal
-Khanewal	MianChannu
-MianChannu	Sahiwal
-Sahiwal	Okara
-Okara	Pattoki
-Pattoki	Lahore
-Lahore	Muridke
-Muridke	Kamoke
-Kamoke	Gujranwala
-Gujranwala	Wazirabad
-Wazirabad	Gujrat
-Gujrat	Jhelum
-Jhelum	Rawalpindi
-Rawalpindi	Nowshera
-Nowshera	Peshawar
-Peshawar	Torkham
-Winder	Ormara
-Ormara	Pasni
-Pasni	Gawadar
-Mansehra	Naran
-Naran	Jalkhad
-Jalkhad	Chilas
-Karachi	hub
-hub	Winder
-Winder	Uthal
-Uthal	Bela
-Bela	Khuzdar
-Khuzdar	Surab
-Surab	Kalat
-Kalat	Mastung
-Mastung	Quetta
-Quetta	kuchlak
-kuchlak	Chaman
-Basima	Khuzdar
-HasanAbdal	Abbottabad
-Abbottabad	Mansehra
-Mansehra	Chilas
-Chilas	Aliabad
-Aliabad	KhunjerabPass
-Quetta	Nushki
-Nushki	Dalbadin
-Dalbadin	Taftan
-Nowshera	Mardan
-Mardan	Batkhela
-Batkhela	Timergara
-Timergara	Chitral
-Kuchlak	QilaSaifullah
-QilaSaifullah	Zhob
-Zhob	DIKhan
-Kotri	Jamshoro
-Jamshoro	Dadu
-Dadu	Larkana
-Larkana	Shikarpur
-Shikarpur	Kandhkot
-Kandhkot	Rajanpur
-Rajanpur	DGKhan
-DGKhan	DIKhan
-DIKhan	Kohat
-Kohat	Peshawar
-Sibi	DeraMuradJamali
-DeraMuradJamali	Jacobabad
-Jacobabad	Shikarpur
-Shikarpur	Sukkur
-QilaSaifullah	Loralai
-Loralai	Mekhtar
-Mekhtar	FortMonro
-FortMonro	DGKhan
-DGKhan	Muzaffargarh
-Muzaffargarh	Multan
-Islamabad	Kohala
-Islamabad	Kohat
-Hoshab	Basima
-Basima	Surab
-Khwazakhela	Besham
-Chakdara	Kalam
-Larkana	Lakhi
-Gharo	MirpurSakro
-MirpurSakro	KetiBunder
-Hyderabad	MirpurKhas
-MirpurKhas	UmerKot
-UmerKot	Khokhrapar
-Taxila	Khanpur
-Khanpur	Haripur
-Larkana	MohenjoDaro
-Larkana	RasheedWagan
-RasheedWagan	Nasirabad
-Sakrand	Nawabshah
-Larkana	Shahdadkot
-Ratodero	Naudero
+Karachi	Thatta	102
+Thatta	Jamshoro	105
+Jamshoro	Hyderabad	14.5
+Hyderabad	Hala	60.6
+Hala	Moro	120
+Moro	Ranipur	94.9
+Ranipur	Khairpur	43.4
+Khairpur	Rohri	24.5
+Rohri	Ghotki	64.1
+Ghotki	Ubauro	55.1
+Ubauro	Bahawalpur	256
+Bahawalpur	Lodhran	24.6
+Lodhran	Multan	73
+Multan	Khanewal	60.7
+Khanewal	MianChannu	47.1
+MianChannu	Sahiwal	82
+Sahiwal	Okara	38.6
+Okara	Pattoki	47.2
+Pattoki	Lahore	83
+Lahore	Muridke	39.7
+Muridke	Kamoke	19.7
+Kamoke	Gujranwala	25.4
+Gujranwala	Wazirabad	31.1
+Wazirabad	Gujrat	26
+Gujrat	Jhelum	62.2
+Jhelum	Rawalpindi	111
+Rawalpindi	Nowshera	131
+Nowshera	Peshawar	44.2
+Peshawar	Torkham	56.5
+Winder	Ormara	272
+Ormara	Pasni	168
+Pasni	Gawadar	129
+Mansehra	Naran	121
+Naran	Jalkhad	39.8
+Jalkhad	Chilas	76
+Karachi	hub	34.9
+hub	Winder	56.1
+Winder	Uthal	49.1
+Uthal	Bela	56.1
+Bela	Khuzdar	215
+Khuzdar	Surab	92
+Surab	Kalat	74.1
+Kalat	Mastung	112
+Mastung	Quetta	42.2
+Quetta	kuchlak	28.8
+kuchlak	Chaman	101
+Basima	Khuzdar	124
+HasanAbdal	Abbottabad	84.2
+Abbottabad	Mansehra	22.9
+Mansehra	Naran	121
+Naran	Jalkhad	39.8
+Jalkhad	Chilas	76
+Chilas	Aliabad	214
+Aliabad	KhunjerabPass	175
+Quetta	Nushki	146
+Nushki	Dalbadin	198
+Dalbadin	Taftan	289
+Nowshera	Mardan	22.6
+Mardan	Batkhela	58.8
+Batkhela	Timergara	53.9
+Timergara	Chitral	170
+Kuchlak	QilaSaifullah	164
+QilaSaifullah	Zhob	148
+Zhob	DIKhan	220
+Kotri	Jamshoro	12.9
+Jamshoro	Dadu	180
+Dadu	Larkana	131
+Larkana	Shikarpur	72.6
+Shikarpur	Kandhkot	66.5
+Kandhkot	Rajanpur	160
+Rajanpur	DGKhan	114
+DGKhan	DIKhan	218
+DIKhan	Kohat	232
+Kohat	Peshawar	72
+Sibi	DeraMuradJamali	123
+DeraMuradJamali	Jacobabad	46.1
+Jacobabad	Shikarpur	43
+Shikarpur	Sukkur	32.8
+QilaSaifullah	Loralai	72.1
+Loralai	Mekhtar	80
+Mekhtar	FortMonro	123
+FortMonro	DGKhan	83.8
+DGKhan	Muzaffargarh	57
+Muzaffargarh	Multan	41.1
+Islamabad	Kohala	93.3
+Islamabad	Kohat	174
+Hoshab	Basima	375
+Basima	Surab	79.9
+Khwazakhela	Besham	66.7
+Chakdara	Kalam	134
+Larkana	Lakhi	66
+Gharo	MirpurSakro	24.9
+MirpurSakro	KetiBunder	62.9
+Hyderabad	MirpurKhas	76.3
+MirpurKhas	UmerKot	77.3
+UmerKot	Khokhrapar	75.6
+Taxila	Khanpur	14
+Khanpur	Haripur	23
+Larkana	MohenjoDaro	30.8
+Larkana	RasheedWagan	19.8
+RasheedWagan	Nasirabad	20
+Sakrand	Nawabshah	19.6
+Larkana	Shahdadkot	51.6
+Ratodero	Naudero	18.3
