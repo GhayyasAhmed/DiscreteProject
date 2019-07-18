@@ -24,7 +24,7 @@ Note: Name of some highways that are given in the above-mentioned websites are n
 
 • Total cities are 183(nodes).
 
-• Total routes are 188(edges).
+• Total roads are 188(edges).
 
 • Average degree is 2 which means that on average every city has 2 routes or 2 other are cities directly connected with it.
 
@@ -36,7 +36,7 @@ Note: Our graph was not completely connected(we can't reach every city starting 
 
 • Total cities are 174(nodes).
 
-• Total routes are 181(edges).
+• Total roads are 181(edges).
 
 • Average degree is 2 which means that on average every city has 2 routes or 2 other cities are directly connected with it.
 
