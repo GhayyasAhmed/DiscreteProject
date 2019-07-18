@@ -1,9 +1,18 @@
-Jamshoro	Hyderabad
-Thatta	Jamshoro
-Jamshoro	Dadu
-Kotri	Jamshoro
-Rajanpur	DGKhan
-DGKhan	DIKhan
-FortMonro	DGKhan
-DGKhan	Muzaffargarh
-
+DGKhan	Rajanpur
+DGKhan	TaunsaSharif
+DGKhan	Loralai
+DGKhan	Multan
+Karachi	Thatta
+Karachi	Ormara
+Karachi	Bela
+Karachi	Hyderabad
+Hyderabad	Kotri
+Hyderabad	Matiari
+Hyderabad	MirpurKhas
+Quetta	Kalat
+Quetta	Chaman
+Quetta	Taftan
+Quetta	Jacobabad
+Shikarpur	Kandhkot	
+Shikarpur	Jacobabad
+Shikarpur	Jaffarabad
