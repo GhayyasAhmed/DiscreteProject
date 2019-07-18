@@ -1,9 +1,8 @@
-Quetta	Nushki
-Mastung	Quetta
-Quetta	kuchlak
-Basima	Surab
-Surab	Kalat
-Surab	Khuzdar	
-Hub	Winder
-Winder	Uthal
-Winder	Ormara
+Lahore	Chung
+Lahore	Ferozewala
+Lahore	Sargodha
+Peshawar	Pabbi
+Peshawar	Jamrud
+Peshawar	DarraAdamkhel
+Multan	Lar
+Multan	Qadirpurran
