@@ -1,6 +1,8 @@
-Pattoki	Lahore
-Lahore	Muridke
-Rawalpindi	Jhelum
-Jhelum	Gujrat
-Kamoke	Gujranwala
-Gujranwala	Wazirabad
+Muridke	KalaShahKaku
+Muridke	Kamoki
+Umerkot	Mirpurkhas
+Umerkot	Khokhrapar
+MianChannu	MusaVirk
+MianChannu	Harappa
+Moro	ShahpurJehanian
+Moro	NaushahroFeroze
