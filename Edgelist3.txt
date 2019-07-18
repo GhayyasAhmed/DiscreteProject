@@ -6,3 +6,4 @@ Peshawar	Jamrud
 Peshawar	DarraAdamkhel
 Multan	Lar
 Multan	Qadirpurran
+Multan  DGkhan
