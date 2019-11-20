@@ -6,7 +6,7 @@ In this project we have graphically represented all the national highways of Pak
 
 # Data Collection
 
-We have used these websites/links for data collection:
+Sources for data collection:
 
 • https://en.wikipedia.org/wiki/National_Highways_of_Pakistan
 
@@ -26,13 +26,13 @@ Note: Name of some highways that are given in the above-mentioned websites are n
 
 • Total roads are 188(edges).
 
-• Average degree is 2 which means that on average every city has 2 routes or 2 other are cities directly connected with it.
+• Average degree is 2 which means that on average every city has 2 routes or 2 other cities are directly connected with it.
 
 Note: Our graph was not completely connected(we can't reach every city starting from any city), so for further interpretations we extracted largest connnected component from our data.
 
 # Network Analysis of Largest Connected Component
 
-• Largest connected component means that we can reach every city starting from any city.
+• Largest connected component means that we can reach every node starting from any node.
 
 • Total cities are 174(nodes).
 
@@ -42,6 +42,6 @@ Note: Our graph was not completely connected(we can't reach every city starting 
 
 • Average path length of largest connected component is 19(approx) which means that on average if we want to go from one city to another then we have to pass through 18 other cities.
 
-• Diameter is 51 means that if we are travelling from anyone city to another then we have to cover maximum of 51 roads in between them and the maximum checkpoints will be 50.
+• Diameter is 51 means that if we are travelling from a city to another then we have to cover maximum of 51 roads in between them and the maximum checkpoints will be 50.
 
 • There is no clustring.
