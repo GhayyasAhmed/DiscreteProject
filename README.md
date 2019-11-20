@@ -2,7 +2,7 @@
 
 # Introduction
 
-In this project we have graphically represented all the national highways of Pakistan.Edges are the roads and nodes are different cities of Pakistan. While construting the data we learned what actually is the difference between national highways, motorways, and expressways and we have also constructed the data of different motorways and expressways but garph is only showing information about national highways.
+In this project we have graphically represented all the national highways of Pakistan. Edges are the roads and nodes are different cities of Pakistan. While construting the data we learned what actually is the difference between national highways, motorways, and expressways and we have also constructed the data of different motorways and expressways but garph is only showing information about national highways.
 
 # Data Collection
 
